@@ -1,4 +1,4 @@
-/*
+package Stack;/*
 What is a Stack:-
 A Stack is a linear data structure that follows the LIFO (Last-In-First-Out) 
 principle. This means, the last element inserted into the stack will be 
