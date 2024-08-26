@@ -1,3 +1,5 @@
+package Arrays;
+
 public class Mult_D_array {
 
     // Print multiple array using loops

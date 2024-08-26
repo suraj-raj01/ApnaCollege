@@ -1,3 +1,5 @@
+package Arrays;
+
 public class arr1 {
 
     //simple method

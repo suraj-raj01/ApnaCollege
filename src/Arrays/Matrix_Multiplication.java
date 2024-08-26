@@ -1,8 +1,7 @@
 package Arrays;
-
 import java.util.Scanner;
 
-public class Matrix_Multiplicatin {
+public class Matrix_Multiplication {
     void MatrixMultiplication() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the numbers of first Matrix: ");
@@ -53,7 +52,7 @@ public class Matrix_Multiplicatin {
         }
     }
     public static void main(String[] args) {
-        Matrix_Multiplicatin matrix = new Matrix_Multiplicatin();
+        Matrix_Multiplication matrix = new Matrix_Multiplication();
         matrix.MatrixMultiplication();
     }
 }

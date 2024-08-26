@@ -1,3 +1,5 @@
+package Arrays;
+
 public class TwoD_arr1 {
     // simple 2D array
     public void print2D_arr1(){
