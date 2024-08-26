@@ -1,9 +1,9 @@
-//Collections Framework
+package ArrayList;//Collections Framework
 
 import java.util.Collections;
 import java.util.ArrayList;
 public class arraylist2{
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         ArrayList<Integer> arr = new ArrayList<>();
         arr.add(2);
         arr.add(4);
@@ -15,7 +15,7 @@ public class arraylist2{
         Collections.reverse(arr);
         System.out.println("reverse arraylist: "+arr);
         Collections.shuffle(arr);
-        System.out.println("suffle arraylist: "+arr);
+        System.out.println("shuffle arraylist: "+arr);
         ArrayList<Integer> arr1 = new ArrayList<>();
         arr1.add(10);
         arr1.add(20);

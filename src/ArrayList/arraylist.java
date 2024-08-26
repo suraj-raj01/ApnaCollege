@@ -1,4 +1,4 @@
-/*
+package ArrayList;/*
 ArrayList:-
 An ArrayList in Java is a resizable-array implementation of the List interface, backed by an array.
 Arrays have fixed size and cannot grow or shrink during runtime.
@@ -24,13 +24,13 @@ public class arraylist {
     public static void main(String[] args) {
         //Integer type arrayList
         ArrayList<Integer> list = new ArrayList<Integer>();
-        // Adding elements to the ArrayList
+        // Adding elements into the ArrayList
         list.add(1);
         list.add(2);
         list.add(3);
         list.add(4);
         System.out.println(list);
-        // to get an element
+        // To get an element
         int element = list.get(3);
         System.out.println("Element at index 3 is " + element);
         // add element

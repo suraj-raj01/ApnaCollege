@@ -1,3 +1,5 @@
+package ArrayList;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 public class Iterators {
@@ -12,7 +14,11 @@ public class Iterators {
         System.out.println(list);
         // iterator method
         Iterator<Integer> it = list.iterator();
-        System.out.println(it.next());
+        System.out.print(it.next()+" ");
+        System.out.print(it.next()+" ");
+        System.out.print(it.next()+" ");
+        System.out.print(it.next()+" ");
+        System.out.print(it.next()+" \n");
         // Looping through a Collections
         System.out.println("Looping through a collections");
         Iterator<Integer> itr = list.iterator();
