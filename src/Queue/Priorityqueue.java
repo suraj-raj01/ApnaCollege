@@ -1,4 +1,4 @@
-/*
+package Queue;/*
 PriorityQueue Class:-
 PriorityQueue is also class that is defined in the collection framework that gives us a 
 way for processing the objects on the basis of priority. It is already described that the

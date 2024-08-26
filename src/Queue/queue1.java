@@ -1,4 +1,4 @@
-/*
+package Queue;/*
 Java Queue Interface:-
 The interface Queue is available in the java.util package and does extend the Collection 
 interface. It is used to keep the elements that are processed in the First In First Out 

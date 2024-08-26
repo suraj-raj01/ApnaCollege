@@ -1,4 +1,4 @@
-/*
+package Queue;/*
 Java Deque Interface:-
 The interface called Deque is present in java.util package. It is the subtype of the 
 interface queue. The Deque supports the addition as well as the removal of elements from 
