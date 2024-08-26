@@ -1,3 +1,5 @@
+package Recursion;
+
 //Write a program to find the occurence
 public class find_Occurence {
     public static int first = -1;

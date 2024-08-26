@@ -1,4 +1,4 @@
-//check if an array is sorted?
+package Recursion;//check if an array is sorted?
 
 public class check_arr_sorted {
     public static boolean isSorted(int arr[], int idx){

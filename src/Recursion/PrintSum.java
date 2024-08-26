@@ -1,4 +1,4 @@
-//Write a program to print the sum of n natural number?
+package Recursion;//Write a program to print the sum of n natural number?
 import java.util.Scanner;
 public class PrintSum {
     public static void printSum(int n, int sum){

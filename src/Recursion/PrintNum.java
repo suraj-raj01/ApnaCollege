@@ -1,4 +1,4 @@
-//Write a program to print number in reverse order.
+package Recursion;//Write a program to print number in reverse order.
 
 //public class PrintNum  {
 //    public static void PrintNumber(int n){

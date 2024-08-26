@@ -1,4 +1,4 @@
-// Java recursive program to solve tower of hanoi puzzle
+package Recursion;// Java recursive program to solve tower of hanoi puzzle
 
 class Tower_Hanoi
 {

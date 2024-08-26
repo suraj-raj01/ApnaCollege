@@ -1,4 +1,4 @@
-//Write a program to implement Factorial of a number.
+package Recursion;//Write a program to implement Factorial of a number.
 
 import java.util.Scanner;
 

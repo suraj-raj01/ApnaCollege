@@ -1,4 +1,4 @@
-//Write a program to remove duplicate character from the String.
+package Recursion;//Write a program to remove duplicate character from the String.
 
 public class removeDuplicates {
     public static boolean[] map = new boolean[26];

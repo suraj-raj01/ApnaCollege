@@ -1,4 +1,4 @@
-//Write a program to move characters
+package Recursion;//Write a program to move characters
 
 public class move_char {
     public static void moveAllX(String str, int idx, int count, String newString) {

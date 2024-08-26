@@ -1,4 +1,4 @@
-//Write a program to implement subsequence of a string
+package Recursion;//Write a program to implement subsequence of a string
 
 public class subSequence{
     public static void subSequences(String str, int idx, String newString){

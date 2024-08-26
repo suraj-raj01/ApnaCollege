@@ -1,4 +1,4 @@
-//Write a program to implement X to the power n.
+package Recursion;//Write a program to implement X to the power n.
 
 import java.util.Scanner;
 public class Power {
