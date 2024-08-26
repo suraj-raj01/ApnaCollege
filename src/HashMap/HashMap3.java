@@ -1,3 +1,5 @@
+package HashMap;
+
 import java.util.HashMap;
 public class HashMap3 {
     public static void main(String[] args) {

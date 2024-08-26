@@ -1,4 +1,4 @@
-
+package HashMap;
 /*
 Java HashMap:-
 In the ArrayList chapter, you learned that Arrays store items as an ordered collection, and you have
