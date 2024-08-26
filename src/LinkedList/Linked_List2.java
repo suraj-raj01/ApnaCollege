@@ -1,10 +1,10 @@
-// This is the String type linkedList
+package LinkedList;// This is the String type linkedList
 // implement some method like addFirst, addLast, remove and more..
 import java.util.LinkedList;
 public class Linked_List2 {
     public static void main(String[] args) {
         LinkedList<String> str = new LinkedList<String>();
-        str.addFirst("suarj");
+        str.addFirst("suraj");
         str.addFirst("name");
         str.addFirst("my");
         System.out.println(str);

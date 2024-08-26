@@ -1,4 +1,4 @@
-/*
+package LinkedList;/*
 Java LinkedList:-
 A linked list is a linear data structure where each element is a separate object.
 In the previous chapter, you learned about the ArrayList class. The LinkedList class is almost 
@@ -18,7 +18,7 @@ the list, but the LinkedList provides several methods to do certain operations m
 import java.util.LinkedList;
 import java.util.Collections;
 public class Linked_List1 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         LinkedList<Integer> list = new LinkedList<>();
         // Adding elements to the list
         list.add(1);
@@ -27,7 +27,7 @@ public class Linked_List1 {
         list.add(4);
         System.out.println(list);
         //Get element from the list
-        int getElement = list.get(0);
+        int getElement = list.get(2);
         System.out.println(getElement);
         // set the element
         list.set(0,5);
@@ -39,8 +39,8 @@ public class Linked_List1 {
         list.remove(2);
         System.out.println(list);
         // Loop on list
-        for(int i=0; i<list.size(); i++){
-            System.out.print(list.get(i)+" ");
+        for (Integer integer : list) {
+            System.out.print(integer + " ");
         }
         System.out.println();
         //Sorting the list
@@ -65,6 +65,8 @@ public class Linked_List1 {
         list.add(2);
         list.add(3);
         list.add(4);
+        System.out.println(list);
+        System.out.println("add first and last element");
         list.addFirst(0);
         list.addLast(5);
         System.out.println(list);
